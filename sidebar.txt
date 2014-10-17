@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pif:home|Door43 (pif)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pif|d43-pif repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pif/archive/master.zip|d43-pif.zip]]
+
+**Recent Changes**
+{{changes>ns = pif}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pif|Ethnologue data]]
+
